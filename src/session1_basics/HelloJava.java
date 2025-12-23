@@ -1,7 +1,7 @@
 package session1_basics;
 
 public class HelloJava {
-    static void main() {
+    public static void main(String[] args) {
 
         System.out.println("I am learning Java Backend");
 

@@ -54,5 +54,7 @@ public class Variables {
         // Wrappers can be null (Primitives cannot)
         Integer databaseValue = null;
         System.out.println("Null value safely held in Wrapper: " + databaseValue);
+
+        System.out.println((char) 65);
     }
 }

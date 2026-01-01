@@ -64,10 +64,6 @@ public class SimpleCalculator {
             if (choice == 0) {
                 break;
             }
-            else {
-                System.out.println("Invalid choice");
-                break;
-            }
         }
 
         sc.close();
